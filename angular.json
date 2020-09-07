@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "demo-cicd"
+    }
+  },
+  "defaultProject": "demo-cicd",
+  "cli": {
+    "analytics": "afc825d5-8df8-4e21-b388-73c14e9dd444"
+  }
 }
